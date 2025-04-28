@@ -1,0 +1,18 @@
+.heading{
+ 
+    color:black;
+    text-align: center;
+    font-weight: bold;
+    height:50px;
+    padding:50px;
+    font-size: 3em;
+ 
+  
+  
+}
+.header{
+    background-color:hsl(47, 100%, 50%);
+    width:100%;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.1); 
+
+}

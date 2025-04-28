@@ -10,14 +10,11 @@ body {
     font-size: 10px; 
     font-family: Roboto, sans-serif;
     background-color:white; /*backg*/
-    margin: 0;
-    height: 100vh;
-    place-items: center;
+   
 }
 
 .container {
     text-align: center;
-	
 }
 
 .expandButton {
